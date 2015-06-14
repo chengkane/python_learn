@@ -91,6 +91,6 @@ start=time.clock()
 find(a,0,0)
 start=time.clock()-start
 a.display()
-rs='time used:%.4f ms'%(start)
+rs='time used:%.4f s'%(start)
 print rs
 
